@@ -1,0 +1,37 @@
+POLÍTICAS DE LA EMPRESA — TiendaOnline S.L.
+
+=== POLÍTICA 1: DEVOLUCIONES ===
+Los clientes tienen 30 días desde la fecha de recepción del pedido para solicitar una devolución. El producto debe estar en su estado original, sin usar, y con el embalaje intacto. Para iniciar una devolución, el cliente debe contactar con soporte indicando su número de pedido. Los gastos de envío de devolución corren a cargo del cliente, salvo en casos de error nuestro o producto defectuoso. Una vez recibido y verificado el artículo, el reembolso se procesa en un plazo de 5 a 10 días hábiles.
+
+=== POLÍTICA 2: REEMBOLSOS ===
+Los reembolsos se realizan siempre en el mismo método de pago utilizado en la compra. No se realizan reembolsos en efectivo. En caso de devolución parcial (solo algunos artículos de un pedido), el reembolso será proporcional al valor de los artículos devueltos. Los reembolsos por productos defectuosos son del 100% del importe pagado, incluyendo gastos de envío originales. Los cupones de descuento utilizados no son reembolsables en efectivo.
+
+=== POLÍTICA 3: ENVÍOS ===
+Los pedidos realizados antes de las 14:00h en días laborables se procesan el mismo día. Los pedidos realizados después de las 14:00h o en fin de semana se procesan el siguiente día laborable. El plazo de entrega estándar es de 3 a 5 días hábiles. El envío express (24h) tiene un coste adicional de 5,99€. Los envíos superiores a 50€ son gratuitos con tarifa estándar. No realizamos envíos internacionales fuera de la Unión Europea.
+
+=== POLÍTICA 4: GARANTÍA DE PRODUCTOS ===
+Todos los productos tienen una garantía mínima de 2 años conforme a la normativa europea. Los productos electrónicos tienen garantía extendida de 3 años. La garantía cubre defectos de fabricación y fallos de funcionamiento en condiciones normales de uso. La garantía no cubre daños por mal uso, accidentes, humedad, o modificaciones no autorizadas. Para reclamar la garantía, el cliente debe presentar el comprobante de compra.
+
+=== POLÍTICA 5: CANCELACIÓN DE PEDIDOS ===
+Los pedidos pueden cancelarse sin coste alguno dentro de las primeras 2 horas tras la confirmación, siempre que no hayan sido enviados. Pasadas las 2 horas, si el pedido ya está en proceso de envío, no es posible cancelarlo y deberá gestionarse como una devolución normal. Las cancelaciones se solicitan a través del área de cliente o contactando con soporte. El reembolso por cancelación se realiza en 24-48 horas.
+
+=== POLÍTICA 6: PRODUCTOS DEFECTUOSOS ===
+Si el cliente recibe un producto defectuoso o dañado durante el transporte, debe notificarlo en un plazo máximo de 72 horas desde la recepción. Se solicitará documentación fotográfica del defecto. En estos casos, la empresa cubre todos los gastos de devolución y envío del producto de sustitución. El cliente puede elegir entre recibir un producto de sustitución o un reembolso completo. No es necesario devolver el producto defectuoso en casos de daño por transporte si el valor es inferior a 20€.
+
+=== POLÍTICA 7: MÉTODOS DE PAGO ===
+Aceptamos tarjetas de crédito y débito (Visa, Mastercard, American Express), PayPal, transferencia bancaria y pago contra reembolso. El pago contra reembolso tiene un recargo de 2,50€. Las transferencias bancarias pueden tardar hasta 2 días hábiles en confirmarse, retrasando el procesamiento del pedido. No almacenamos datos de tarjetas de crédito; todos los pagos se procesan de forma segura a través de pasarelas certificadas PCI-DSS.
+
+=== POLÍTICA 8: PROTECCIÓN DE DATOS ===
+La empresa cumple con el Reglamento General de Protección de Datos (RGPD). Los datos personales se utilizan únicamente para gestionar pedidos y mejorar la experiencia del cliente. No vendemos ni cedemos datos a terceros con fines comerciales. El cliente puede solicitar en cualquier momento el acceso, rectificación o eliminación de sus datos enviando un correo a privacidad@tiendaonline.es. Los datos se conservan durante un máximo de 5 años o hasta que el cliente solicite su eliminación.
+
+=== POLÍTICA 9: PROGRAMA DE FIDELIZACIÓN ===
+Los clientes registrados acumulan 1 punto por cada euro gastado. Al alcanzar 100 puntos, se genera automáticamente un cupón de 5€ de descuento. Los puntos tienen una validez de 12 meses desde su generación. Los puntos no son transferibles ni canjeables por dinero en efectivo. Las compras realizadas con cupones de descuento no generan puntos sobre el importe descontado.
+
+=== POLÍTICA 10: ATENCIÓN AL CLIENTE ===
+El servicio de atención al cliente está disponible de lunes a viernes de 9:00 a 18:00h, y sábados de 10:00 a 14:00h. Los canales de contacto son: chat en vivo en la web, correo electrónico (soporte@tiendaonline.es) y teléfono (900 123 456, gratuito). El tiempo de respuesta por correo electrónico es de máximo 24 horas en días laborables. Las consultas urgentes deben realizarse por teléfono o chat. Los casos complejos pueden escalar a un especialista en un plazo de 48 horas.
+
+=== POLÍTICA 11: STOCK Y DISPONIBILIDAD ===
+La disponibilidad de productos se actualiza en tiempo real en la web. Si un producto se agota tras realizar el pedido, el cliente será notificado en un plazo de 24 horas y podrá elegir entre esperar la reposición, sustituirlo por otro producto equivalente o cancelar el pedido con reembolso completo. Los productos con la etiqueta "Preventa" se enviarán en la fecha indicada en la ficha de producto.
+
+=== POLÍTICA 12: FACTURACIÓN ===
+Las facturas se emiten automáticamente por correo electrónico tras la confirmación del pago. Las facturas están disponibles en el área de cliente durante 5 años. Para facturas con datos fiscales de empresa (NIF/CIF), deben indicarse en el momento del pedido; no es posible modificarlos retroactivamente. Las facturas rectificativas por devoluciones parciales se emiten en un plazo de 5 días hábiles tras procesar la devolución.
